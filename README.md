@@ -1,8 +1,8 @@
-## Nimap-assignment
+# Nimap-assignment
 
 CRUD Web application.
 
-# Technology Stack 
+## Technology Stack 
 Install all the frameworks and softwares.
 1- Node.js
 2- Angular.js
@@ -16,7 +16,7 @@ Install all the frameworks and softwares.
 3. Download the following folders. 
 
 
-# mean-stack-nodejs
+### mean-stack-nodejs
 1. In first folder "mean-stack-nodejs", run nodejs command which is given below
                       npm install
 
@@ -27,7 +27,7 @@ Install all the frameworks and softwares.
             npm start or nodemon start      
 - you will get message mysql connected in terminal, if not then database is not connected to nodejs application.
               
-# mean-stack-angularjs
+### mean-stack-angularjs
 
 1. In second folder "mean-stack-angularjs", browse in directory meanapp and run angularjs command.
                           npm install
