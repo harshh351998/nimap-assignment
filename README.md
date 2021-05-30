@@ -28,7 +28,7 @@ Install all the frameworks and softwares.
                       
 3.  Then run the final command 
             npm start or nodemon start      
-- you will get message mysql connected in terminal, if not then database is not connected to nodejs application.
+- you will get message mysql connected in terminal, if not then database is not connected to nodejs application, you need to start xampp server and run this application.
               
 ### mean-stack-angularjs
 
