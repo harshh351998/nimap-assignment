@@ -20,6 +20,7 @@ Install all the frameworks and softwares.
 
 
 ### mean-stack-nodejs
+0. Start Xampp application and click on mysql and apache servers.
 1. In first folder "mean-stack-nodejs", run nodejs command which is given below
                       npm install
 
