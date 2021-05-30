@@ -20,7 +20,8 @@ Install all the frameworks and softwares.
 
 
 ### mean-stack-nodejs
-0. Start Xampp application and click on mysql and apache servers.
+0. Start Xampp application and click on mysql and apache servers. Go to phpmyadmin by typing "localhost/phpmyadmin/" and create the database file meanapp and import the sql file meanapp.sql from mean-stack-nodejs folder.
+
 1. In first folder "mean-stack-nodejs", run nodejs command which is given below
                       npm install
 
